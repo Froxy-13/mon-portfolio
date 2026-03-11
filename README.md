@@ -15,7 +15,7 @@ en développement web.
 ```
 mon-portfolio/
 index.html # Page principale
-styles.css # Feuille de styles
+styles.css # Feuille de style
 README.md # Ce fichier
 .gitignore # Fichiers à ignorer
 
